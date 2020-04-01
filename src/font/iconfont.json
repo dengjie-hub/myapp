@@ -1,0 +1,142 @@
+{
+  "id": "1697088",
+  "name": "hx",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13327785",
+      "name": "时间",
+      "font_class": "shijian",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "3747504",
+      "name": "鱼",
+      "font_class": "icon-test",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "4217245",
+      "name": "鱼",
+      "font_class": "yu1",
+      "unicode": "e73a",
+      "unicode_decimal": 59194
+    },
+    {
+      "icon_id": "7504115",
+      "name": "鱼",
+      "font_class": "yu",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "868866",
+      "name": "优惠",
+      "font_class": "youhui",
+      "unicode": "e714",
+      "unicode_decimal": 59156
+    },
+    {
+      "icon_id": "1404300",
+      "name": "蟹",
+      "font_class": "xie",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "1405033",
+      "name": "虾",
+      "font_class": "xia",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "1850958",
+      "name": "安全",
+      "font_class": "anquan",
+      "unicode": "e6ca",
+      "unicode_decimal": 59082
+    },
+    {
+      "icon_id": "2439695",
+      "name": "放心购",
+      "font_class": "fx-shop2",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "3502213",
+      "name": "冷藏2",
+      "font_class": "lengcang",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "4215887",
+      "name": "下",
+      "font_class": "xia1",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "4215888",
+      "name": "上",
+      "font_class": "shang",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "5166724",
+      "name": "刺身",
+      "font_class": "cishen",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "6032576",
+      "name": "搜索--1",
+      "font_class": "xingtaiduICON_sousuo--",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "6279424",
+      "name": "肉",
+      "font_class": "rou",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "6914713",
+      "name": "海鲜",
+      "font_class": "haixian",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "10063397",
+      "name": "肉类",
+      "font_class": "roulei",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "11228145",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "12392107",
+      "name": "纯天然",
+      "font_class": "chuntianran",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    }
+  ]
+}
